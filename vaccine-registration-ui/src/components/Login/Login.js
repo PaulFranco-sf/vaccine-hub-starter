@@ -2,7 +2,6 @@ import { useState } from "react"
 import { Link, useNavigate } from "react-router-dom"
 import axios from "axios"
 import MedicalResearch from "../MedicalResearch/MedicalResearch"
-// import undraw_medical_research from "../../assets/undraw_medical_research_deep_blue.svg"
 import "./Login.css"
 
 export default function Login({ setAppState }) {
